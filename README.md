@@ -1,5 +1,5 @@
 # spormoc.github.io
 
-in progress
+Site is currently in progress. Check back soon.
 
 &copy; 2026
